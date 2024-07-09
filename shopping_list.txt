@@ -1,4 +1,4 @@
-1. cherry tomatoes
+1. Testing merge conflict
 2. Italian basil
 3. Jalapenos
 4. Cayenne peppers
